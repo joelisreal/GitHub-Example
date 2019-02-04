@@ -12,6 +12,7 @@
 		E77F71762204D40E00DA153F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E77F71742204D40E00DA153F /* Main.storyboard */; };
 		E77F71782204D40E00DA153F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E77F71772204D40E00DA153F /* Assets.xcassets */; };
 		E77F717B2204D40E00DA153F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E77F71792204D40E00DA153F /* LaunchScreen.storyboard */; };
+		E78CE0562208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E78CE0552208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E77F71772204D40E00DA153F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E77F717A2204D40E00DA153F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E77F717C2204D40E00DA153F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E78CE0552208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DXtuNPyU8AAD3XU.jpg-large.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E77F71772204D40E00DA153F /* Assets.xcassets */,
 				E77F71792204D40E00DA153F /* LaunchScreen.storyboard */,
 				E77F717C2204D40E00DA153F /* Info.plist */,
+				E78CE0552208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg */,
 			);
 			path = "GitHub Example";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E78CE0562208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg in Resources */,
 				E77F717B2204D40E00DA153F /* LaunchScreen.storyboard in Resources */,
 				E77F71782204D40E00DA153F /* Assets.xcassets in Resources */,
 				E77F71762204D40E00DA153F /* Main.storyboard in Resources */,
