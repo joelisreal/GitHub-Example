@@ -13,6 +13,7 @@
 		E77F71782204D40E00DA153F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E77F71772204D40E00DA153F /* Assets.xcassets */; };
 		E77F717B2204D40E00DA153F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E77F71792204D40E00DA153F /* LaunchScreen.storyboard */; };
 		E78CE0562208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E78CE0552208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg */; };
+		E7D4CA88220A1F580085ED9C /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = E7D4CA87220A1F580085ED9C /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E77F717A2204D40E00DA153F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E77F717C2204D40E00DA153F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E78CE0552208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DXtuNPyU8AAD3XU.jpg-large.jpeg"; sourceTree = "<group>"; };
+		E7D4CA87220A1F580085ED9C /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		E77F71642204D40D00DA153F = {
 			isa = PBXGroup;
 			children = (
+				E7D4CA87220A1F580085ED9C /* readme.md */,
 				E77F716F2204D40E00DA153F /* GitHub Example */,
 				E77F716E2204D40E00DA153F /* Products */,
 			);
@@ -128,6 +131,7 @@
 				E78CE0562208CE5600171695 /* DXtuNPyU8AAD3XU.jpg-large.jpeg in Resources */,
 				E77F717B2204D40E00DA153F /* LaunchScreen.storyboard in Resources */,
 				E77F71782204D40E00DA153F /* Assets.xcassets in Resources */,
+				E7D4CA88220A1F580085ED9C /* readme.md in Resources */,
 				E77F71762204D40E00DA153F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
